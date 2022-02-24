@@ -55,7 +55,7 @@ class MyApp extends StatelessWidget {
                 onPressed: () {},
                 child: Text("Log In"),
                 style: ElevatedButton.styleFrom(
-                  primary: Colors.blue,
+                  primary: Colors.yellow,
                   minimumSize: const Size(300, 40),
                 ),
               ),
